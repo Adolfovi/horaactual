@@ -1,0 +1,35 @@
+.ordened{
+    background-color: #E9FAFF;
+      padding: 5px;
+      text-align: center;
+    display:flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+    
+    
+    }
+    
+    body{
+    font-family: Arial;
+    background-color: #E9FAFF;
+    
+    
+    
+    
+    }
+    
+    
+    
+    
+    input{
+    
+      text-align: center;
+      font-size:50px;
+      flex-wrap: wrap;
+      border: 2px solid #007195;
+      border-radius: 5px;
+    
+    
+    
+    
+    }
