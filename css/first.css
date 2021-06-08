@@ -22,7 +22,7 @@
     
     
     input{
-    
+      width: 260px;
       text-align: center;
       font-size:50px;
       flex-wrap: wrap;
